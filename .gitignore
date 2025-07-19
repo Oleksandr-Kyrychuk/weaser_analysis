@@ -17,3 +17,7 @@ __pycache__/
 
 # Файли налаштувань
 *.env
+
+.cdsapirc
+
+era5_land_data/
