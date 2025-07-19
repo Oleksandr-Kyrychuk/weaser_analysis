@@ -1,0 +1,19 @@
+# Віртуальне середовище
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# Кеші Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файли логів
+*.log
+
+# Файли налаштувань
+*.env
